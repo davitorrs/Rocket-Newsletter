@@ -1,0 +1,98 @@
+:root {
+    --body-bg-color: #121214;
+    --text-color: #E1E1E6;
+    --title-color: #04D361;
+    --form-color: #A8A8A8;
+    --bg-button-color: #8257e5;
+  }
+
+  body {
+    background-color: #121214;
+  }
+
+  .logo {
+    position: absolute;
+    width: 389px;
+    height: 94px;
+    left: 30px;
+    top: 50px;
+      
+  }
+
+  .chamada {
+    width: 35rem;
+    margin-left:36px ;
+    margin-top: 236px;
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 28px;
+    color: #08C05E;
+  }
+
+  .subtitulo {
+    width: 30rem;
+    margin-left:36px ;
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+  }
+
+  .descricao {
+    width: 30rem;
+    margin-left:36px ;
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 15px;
+    color: #FFFFFF;
+  }
+
+  .email {
+      margin-top: 3rem;
+    margin-left:36px ;
+    font-family: 'Radio Canada';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 138.73%;
+    color: #A8A8A8;
+  }
+  .lerprimeiro {
+    margin-left:36px ;
+    font-family: 'Radio Canada';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 138.73%;
+color: #8257E5;
+  }
+
+  .imglateral {
+    position:absolute;
+    width: 55vw;
+    height: 47vw;
+    left: 45vw;
+    top: 0px;
+  }
+
+  .form{
+    margin-left:36px;
+    width: 30rem;
+  }
+
+  .botaoform {
+    width: 45px;
+    height: 45px;
+    margin: 0%;
+    background: #8257E5;
+  }
+
+  .icons{
+      background-color: #8257E5;
+  }
